@@ -1,6 +1,8 @@
 export const App = () => {
   return (
-    <h1>Pizza Stack</h1>
+    <h1 className="font-bold text-3xl text-red-500">
+      Pizza Stack
+    </h1>
   );
 }
 
