@@ -10,4 +10,4 @@ const Template: ComponentStory<typeof MenuList> = (args: any) => (
   <MenuList {...args} />
 );
 
-export const View = Template.bind({})
+export const View = Template.bind({});
